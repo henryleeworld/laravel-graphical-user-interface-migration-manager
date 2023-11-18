@@ -1,4 +1,4 @@
-# Laravel 8 圖形使用者介面遷移管理工具
+# Laravel 10 圖形使用者介面遷移管理工具
 
 引入 rezaamini-ir 的 migrator 套件來擴增圖形使用者介面遷移管理工具，您可以在其中建立、遷移、刪除和推回上一次的遷移，使您能夠輕鬆查看每個遷移的狀態。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/YdhcjDM.gif)
+![](https://i.imgur.com/b53uZbt.gif)
 > 建立、遷移、刪除和推回上一次的遷移
